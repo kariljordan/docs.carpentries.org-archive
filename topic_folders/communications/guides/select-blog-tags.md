@@ -23,6 +23,9 @@ Efforts to analyze and evaluate feedback of The Carpentries work as it relates t
 ### Australasia
 For blog posts related to Carpentries' work in Australasia.
 
+### Board of Directors
+Updates and announcements from The Carpentries Board of Directors, the highest governing body of The Carpentries non-profit organisation.
+
 ### Books
 For use in blog posts about published books directly about or written by members of The Carpentries community
 
@@ -78,7 +81,7 @@ Updates and announcements from The Carpentries Executive Council, the highest le
 Comments on experience from Instructors, Hosts, Members, and other community members
 
 ### Governance
-For blog posts related to the governance  of The Carpentries as an organisation.
+For blog posts related to organisational governance, including board leadership, policy development, and decisions impacting the organisation.
 
 ### Grants 	
 Announcements for grants funding Carpentries activities
